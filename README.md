@@ -4,11 +4,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bibek-neupane-738562229/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
-  <img width="10" />
+  <img width="20" />
   <a href="https://x.com/Bibekipynb" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" />
   </a>
 </div>
 
@@ -30,17 +30,10 @@
 
 ### 🛠️ **Tech Stack**
 <div align="center">
-  
-**Languages & Frameworks**
-<br/>
 <img src="https://skillicons.dev/icons?i=python,c,cpp" height="50"/>
-<img width="20" />
+<img width="15" />
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="50"/>
-
-<br/><br/>
-
-**ML & Data Science**
-<br/>
+<img width="15" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/>
 <img width="15" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
@@ -48,13 +41,8 @@
 <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-small.png" height="50" alt="Scikit-learn"/>
 <img width="15" />
 <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="50" alt="Matplotlib"/>
-
-<br/><br/>
-
-**Tools**
-<br/>
+<img width="15" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" height="50"/>
-
 </div>
 
 ---

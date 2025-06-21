@@ -1,6 +1,5 @@
-# 💫 About Me:
-I’m currently learning Machine Learning.<br>📈 I share my daily progress and learning updates.<br>🚀 I build and share projects as I learn.
-
+# About Me:
+<br>📚 I document my learning journey in Machine Learning and AI.<br>🛠️ I build real-world projects as I learn and share my progress consistently.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bibek-neupane-738562229) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bibekipynb) 

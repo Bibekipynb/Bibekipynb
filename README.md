@@ -1,5 +1,7 @@
 # About Me:
-<br>📚 I document my learning journey in Machine Learning and AI.<br>🛠️ I build real-world projects as I learn and share my progress consistently.
+<br>I build Machine Learning & Deep Learning projects to deeply understand algorithms.
+Working with Python, NumPy, scikit-learn, and PyTorch.
+Documenting my learning journey one project at a time.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bibek-neupane-738562229) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bibekipynb) 
